@@ -16,20 +16,20 @@ $$
 
 ### Parameters:
 
-| Symbol | Description | Unit in Calculator |
-| ----- | ----- | ----- |
-| $w$ | Optimal Slit Width | $\mu m$ (Calculated) |
-| $m$ | Diffraction Order | (Unitless) |
-| $\Delta\lambda$ | Target Spectral Resolution | $nm$ |
-| $L_C$ | Collimating Lens Focal Length | $mm$ |
-| $d$ | Grating Groove Spacing ($1/Grooves$) | $nm$ (Derived from input) |
-| $\beta$ | Diffraction Angle for $\lambda_{min}$ | $degrees$ |
+| Symbol | Description | Unit in Calculator | 
+| ----- | ----- | ----- | 
+| $w$ | Optimal Slit Width | $\mu m$ (Calculated) | 
+| $m$ | Diffraction Order | (Unitless) | 
+| $\Delta\lambda$ | Target Spectral Resolution | $nm$ | 
+| $L_C$ | Collimating Lens Focal Length | $mm$ | 
+| $d$ | Grating Groove Spacing ($1/Grooves$) | $nm$ (Derived from input) | 
+| $\beta$ | Diffraction Angle for $\lambda_{min}$ | $degrees$ | 
 
 ## ✨ Features
 
 1. **Interactive Calculator:** Real-time calculation of the optimal slit width as input parameters are adjusted.
 
-2. **Infographic Format:** Step-to-step visual explanation of the physical and geometric principles behind the final derivation.
+2. **Infographic Format:** Step-by-step visual explanation of the physical and geometric principles behind the final derivation.
 
 3. **Sensitivity Analysis:** A **Chart.js** visualization demonstrating how a change in each input parameter (e.g., $L_C$ or $\Delta\lambda$) affects the resulting slit width, providing instant design insight.
 
@@ -37,12 +37,12 @@ $$
 
 ## ⚙️ Technology Stack
 
-| Technology | Purpose |
-| ----- | ----- |
-| **HTML5** | Core structure and content. |
-| **Tailwind CSS (CDN)** | Fully responsive layout and modern UI/UX design. |
-| **Chart.js (CDN)** | Rendering the interactive parameter sensitivity bar chart. |
-| **Pure JavaScript** | Handling input, formula calculation, and DOM manipulation. |
+| Technology | Purpose | 
+| ----- | ----- | 
+| **HTML5** | Core structure and content. | 
+| **Tailwind CSS (CDN)** | Fully responsive layout and modern UI/UX design. | 
+| **Chart.js (CDN)** | Rendering the interactive parameter sensitivity bar chart. | 
+| **Pure JavaScript** | Handling input, formula calculation, and DOM manipulation. | 
 
 ## 🚀 Usage
 
@@ -50,7 +50,7 @@ $$
 
 You can view the live, hosted version of the calculator using [GitHub Pages](https://pages.github.com/):
 
-> **\[Insert Your GitHub Pages Link Here\]**
+> **https://checkag.github.io/Jasper_VIS_NIR_Slit_Width/**
 
 ### Running Locally
 
@@ -58,5 +58,10 @@ Since the application is a single HTML file with no build steps or server requir
 
 1. Clone this repository:
 
-   ```bash
-   git clone [Your Repository URL]
+git clone https://github.com/checkag/Jasper_VIS_NIR_Slit_Width.git
+
+2. Open the `index.html` file in any web browser.
+
+## 🤝 Contribution
+
+This project is a component of a larger open-source spectrometer build. Feedback, bug reports, and suggestions for formula improvements or additional features are welcome!
