@@ -16,14 +16,14 @@ $$
 
 ### Parameters:
 
-| Symbol | Description | Unit in Calculator |
-| ----- | ----- | ----- |
-| $w$ | Optimal Slit Width | $\mu m$ (Calculated) |
-| $m$ | Diffraction Order | (Unitless) |
-| $\Delta\lambda$ | Target Spectral Resolution | $nm$ |
-| $L_C$ | Collimating Lens Focal Length | $mm$ |
-| $d$ | Grating Groove Spacing ($1/Grooves$) | $nm$ (Derived from input) |
-| $\beta$ | Diffraction Angle for $\lambda_{min}$ | $degrees$ |
+| Symbol | Description | Unit in Calculator | 
+| ----- | ----- | ----- | 
+| $w$ | Optimal Slit Width | $\mu m$ (Calculated) | 
+| $m$ | Diffraction Order | (Unitless) | 
+| $\Delta\lambda$ | Target Spectral Resolution | $nm$ | 
+| $L_C$ | Collimating Lens Focal Length | $mm$ | 
+| $d$ | Grating Groove Spacing ($1/Grooves$) | $nm$ (Derived from input) | 
+| $\beta$ | Diffraction Angle for $\lambda_{min}$ | $degrees$ | 
 
 ## ✨ Features
 
@@ -37,25 +37,23 @@ $$
 
 ## ⚙️ Technology Stack
 
-| Technology | Purpose |
-| ----- | ----- |
-| **HTML5** | Core structure and content. |
-| **Tailwind CSS (CDN)** | Fully responsive layout and modern UI/UX design. |
-| **Chart.js (CDN)** | Rendering the interactive parameter sensitivity bar chart. |
-| **Pure JavaScript** | Handling input, formula calculation, and DOM manipulation. |
+| Technology | Purpose | 
+| ----- | ----- | 
+| **HTML5** | Core structure and content. | 
+| **Tailwind CSS (CDN)** | Fully responsive layout and modern UI/UX design. | 
+| **Chart.js (CDN)** | Rendering the interactive parameter sensitivity bar chart. | 
+| **Pure JavaScript** | Handling input, formula calculation, and DOM manipulation. | 
 
 ## 🚀 Usage
 
 ### Accessing the Live Demo
 
-You can view the live, hosted version of the calculator using [GitHub Pages]([https://pages.github.com/](https://checkag.github.io/Jasper_VIS_NIR_Slit_Width/)):
+You can view the live, hosted version of the calculator using [GitHub Pages](https://pages.github.com/):
 
+> **https://checkag.github.io/Jasper_VIS_NIR_Slit_Width/**
 
 ### Running Locally
 
 Since the application is a single HTML file with no build steps or server requirements, you can run it instantly:
 
 1. Clone this repository:
-
-   ```bash
-   git clone [[Your Repository URL](https://checkag.github.io/Jasper_VIS_NIR_Slit_Width/)]
