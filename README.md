@@ -48,9 +48,8 @@ $$
 
 ### Accessing the Live Demo
 
-You can view the live, hosted version of the calculator using [GitHub Pages](https://pages.github.com/):
+You can view the live, hosted version of the calculator using [GitHub Pages]([https://pages.github.com/](https://checkag.github.io/Jasper_VIS_NIR_Slit_Width/)):
 
-> **\[Insert Your GitHub Pages Link Here\]**
 
 ### Running Locally
 
@@ -59,4 +58,4 @@ Since the application is a single HTML file with no build steps or server requir
 1. Clone this repository:
 
    ```bash
-   git clone [Your Repository URL]
+   git clone [[Your Repository URL](https://checkag.github.io/Jasper_VIS_NIR_Slit_Width/)]
