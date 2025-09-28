@@ -57,3 +57,11 @@ You can view the live, hosted version of the calculator using [GitHub Pages](htt
 Since the application is a single HTML file with no build steps or server requirements, you can run it instantly:
 
 1. Clone this repository:
+   
+git clone https://github.com/checkag/Jasper_VIS_NIR_Slit_Width.git
+
+2. Open the `index.html` file in any web browser.
+
+## 🤝 Contribution
+
+This project is a component of a larger open-source spectrometer build. Feedback, bug reports, and suggestions for formula improvements or additional features are welcome!
